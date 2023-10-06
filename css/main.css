@@ -2530,7 +2530,7 @@ footer .copyright span:last-child::after {
 	position: fixed;
 	bottom: 0;
 	right: 0;
-	z-index: 600;
+	z-index: -1;
 	display: none;
 }
 #go-top a {
