@@ -77,6 +77,15 @@ body {
  * links - (_document-setup.scss)
  * -------------------------------------------------------------------
  */
+
+ #main-heading {
+    color: #CC005F;  /* Set the desired text color */
+    font-size: 2em; /* Adjust the font size as needed */
+    font-weight: bold; /* Add or adjust font weight as needed */
+    /* Add any other styling properties you desire */
+}
+
+
 a, a:visited {
 	color: #000000;
 	-moz-transition: all 0.3s ease-in-out;
