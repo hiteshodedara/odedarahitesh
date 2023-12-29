@@ -79,10 +79,8 @@ body {
  */
 
  #main-heading {
-    color: #CC005F;  /* Set the desired text color */
     font-size: 2em; /* Adjust the font size as needed */
     font-weight: bold; /* Add or adjust font weight as needed */
-    /* Add any other styling properties you desire */
 }
 
 
